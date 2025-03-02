@@ -43,7 +43,7 @@ int main(){
     printf("trin_cout=%d\n",train_count);
     printf("predicted_a=%f    predicted_b=%f \n",a,b);
     /* for(int i=0;i<train_count;i++){
-        printf("intput=%f, actual_output=%f, predicted_output=%f\n",train[i][0],train[i][1],(w*train[i][0]+b)); //if you want 100% accuracy and same result as train set jusst round the predicted output
+        printf("intput=%f, actual_output=%f, predicted_output=%f\n",train[i][0],train[i][1],(w*train[i][0]+b)); 
     } */
 
     printf("enter number of query=");
